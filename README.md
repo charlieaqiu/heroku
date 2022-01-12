@@ -26,7 +26,7 @@
 
 | 变量 | 默认值 | 说明 |
 | :--- | :--- | :--- |
-| `ID` | `ad806487-2d26-4636-98b6-ab85cc852191` | VMess 用户主 ID，用于身份验证，为 UUID 格式 |
+| `ID` | `9a45f0fd-b267-410b-a9d2-ae1ce3244e51` | VMess 用户主 ID，用于身份验证，为 UUID 格式 |
 | `WSPATH` | `/` | WebSocket 所使用的 HTTP 协议路径 |
 
 ## 接入 CloudFlare
